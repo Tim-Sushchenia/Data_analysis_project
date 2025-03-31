@@ -1,5 +1,7 @@
 # Data_analysis_project
 
+[Open in Google Colab](https://colab.research.google.com/drive/1fEBse-ta6uwoilq50UC1MMFcXmqTNqIZ?usp=sharing)
+
 ### **Netflix Movies and TV Shows Analysis**  
 
 This project focuses on the analysis of Netflix movies and TV shows using a dataset containing information about titles, genres, release years, ratings, and other relevant attributes. The primary objective is to explore patterns, trends, and correlations in the dataset while applying machine learning techniques for predictive modeling.  
